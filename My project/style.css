@@ -1,0 +1,28 @@
+body {
+      background-color: red;
+}
+h1 {
+     background-color: black;
+     border: ridge #ccc;
+     border-width: 6px;
+     border-radius: 2em/6em;
+     color: white;
+     text-align: center;
+}
+h2 {
+     border: ridge #ccc;
+    border-width: 6px;
+  border-radius: 2em/6em;
+
+
+
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+p 
+  {
+   background-color: grey;
+     border: ridge #ccc;
+    border-width: 3px;
+}
